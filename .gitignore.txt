@@ -1,0 +1,5 @@
+backend/target/
+backend/.idea/
+*.log
+*.class
+backend/src/main/resources/application.properties
